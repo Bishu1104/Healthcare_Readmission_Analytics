@@ -18,7 +18,7 @@ This project analyzes healthcare readmission data using Python, SQL, and Power B
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/screenshots/dashboard_final.png)
+![Dashboard](dashboard_final.png)
 
 ## Key Insights
 - 62% patients were not readmitted
